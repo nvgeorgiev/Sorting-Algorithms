@@ -1,2 +1,1 @@
-# SortingAlgorithmsCsharp
-Sorting Algorithms for .NET Core
+# Sorting Algorithms for .NET Core
