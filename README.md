@@ -1,1 +1,1 @@
-# Sorting Algorithms for .NET Core
+# Sorting algorithms for .NET Core
