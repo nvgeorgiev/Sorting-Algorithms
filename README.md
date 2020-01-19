@@ -1,1 +1,1 @@
-# Sorting algorithms for .NET
+# Sorting algorithms
